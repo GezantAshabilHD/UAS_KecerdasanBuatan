@@ -83,4 +83,47 @@ Dataset berisi **8124 baris** dan **23 kolom**, seluruhnya bertipe kategorikal.
 - **Tipe Data**: Kategorikal
 - **Target Klasifikasi**: `class` (edible vs poisonous)
 
+---
+
+## ✅ Kesimpulan & Rekomendasi
+
+- Semua model berhasil klasifikasikan jamur dengan akurat
+- **Random Forest** direkomendasikan karena akurasi & stabilitas
+- Rekomendasi:
+  - Coba algoritma ensemble lain seperti XGBoost
+  - Gunakan hyperparameter tuning
+  - Uji pada dataset jamur lokal / lapangan
+
+---
+
+## 📚 Referensi
+
+Tercantum lengkap di [uas_ai.md](./uas_ai.md), dengan minimal 5 jurnal ilmiah bergaya APA (contoh: Arslan et al., 2024; Ortega, 2020; Sulistianingsih et al., 2025).
+
+---
+
+## ▶️ Cara Menjalankan Kode
+
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/GezantAshabilHD/UAS_KecerdasanBuatan.git
+   cd UAS_KecerdasanBuatan
+
+## ▶️ Cara Menjalankan Notebook
+
+1. Buka file `notebook_model.ipynb` di Google Colab atau Jupyter Notebook.
+2. Jalankan semua sel secara berurutan dari atas ke bawah.
+
+---
+
+# 📊 Laporan UAS Kecerdasan Buatan
+## Perbandingan Algoritma Decision Tree, Random Forest, dan Naive Bayes pada Klasifikasi Jamur Beracun
+
+### 👥 Nama Kelompok
+1. Gezant Ashabil Haqdu D (2206049)  
+2. Moch Yusuf Ferandy (2206038)
+
+
+📝 **Catatan**:  
+Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Kecerdasan Buatan**. Dikerjakan menggunakan pendekatan *real-world project* dengan dukungan referensi ilmiah yang valid.
 
